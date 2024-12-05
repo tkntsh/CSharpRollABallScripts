@@ -26,4 +26,5 @@ The Roll-a-Ball game is a Unity-based project where the player controls a sphere
 - **Audio Source**: Provides sound feedback for interactions.
 
 ## Credits
-Developed by Ntokozo as part of a Unity Developer Internship assessment.
+Developed by Ntokozo Ntshangase 
+[ntokntshangase@gmail.com]
